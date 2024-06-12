@@ -1,0 +1,1 @@
+{"name":"Local: 5373","url":"/Users/cjy/dev/ps/baekjoon/5373.cpp","tests":[{"id":1713157894175,"input":"1\n1\nU+","output":""},{"id":1713178521480,"input":"4\n1\nL-\n2\nF+ B+\n4\nU- D- L+ R+\n10\nL- U- L+ U- L- U- U- L+ U+ U+","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cjy/dev/ps/baekjoon/5373.cpp","group":"local","local":true}

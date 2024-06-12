@@ -1,0 +1,1 @@
+{"name":"Local: 1992-s1","url":"/Users/cjy/dev/ps/baekjoon/1992-s1.cpp","tests":[{"id":1711374413347,"input":"8\n11110000\n11110000\n00011100\n00011100\n11110000\n11110000\n11110011\n11110011","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cjy/dev/ps/baekjoon/1992-s1.cpp","group":"local","local":true}

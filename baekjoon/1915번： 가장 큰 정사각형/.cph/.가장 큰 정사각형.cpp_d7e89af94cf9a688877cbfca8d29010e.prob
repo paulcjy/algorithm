@@ -1,0 +1,1 @@
+{"name":"Local: 가장 큰 정사각형","url":"/Users/cjy/dev/ps/baekjoon/1915번： 가장 큰 정사각형/가장 큰 정사각형.cpp","tests":[{"id":1715249312224,"input":"7 6\n111000\n111111\n111111\n011111\n011111\n111111\n001111","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cjy/dev/ps/baekjoon/1915번： 가장 큰 정사각형/가장 큰 정사각형.cpp","group":"local","local":true}

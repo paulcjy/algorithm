@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/Users/cjy/dev/ps/baekjoon/1918번： 후위 표기식/test.cpp","tests":[{"id":1715006448586,"input":"(A+B)","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cjy/dev/ps/baekjoon/1918번： 후위 표기식/test.cpp","group":"local","local":true}

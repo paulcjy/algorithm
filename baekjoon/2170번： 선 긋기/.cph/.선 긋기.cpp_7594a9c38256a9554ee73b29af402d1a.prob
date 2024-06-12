@@ -1,0 +1,1 @@
+{"name":"Local: 선 긋기","url":"/Users/cjy/dev/ps/baekjoon/2170번： 선 긋기/선 긋기.cpp","tests":[{"id":1715353927055,"input":"4\n1 3\n2 5\n3 5\n6 7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cjy/dev/ps/baekjoon/2170번： 선 긋기/선 긋기.cpp","group":"local","local":true}

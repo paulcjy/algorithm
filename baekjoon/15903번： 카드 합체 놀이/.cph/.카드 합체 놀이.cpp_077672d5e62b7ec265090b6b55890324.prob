@@ -1,0 +1,1 @@
+{"name":"Local: 카드 합체 놀이","url":"/Users/cjy/dev/ps/baekjoon/15903번： 카드 합체 놀이/카드 합체 놀이.cpp","tests":[{"id":1715350096299,"input":"4 2\n4 2 3 1","output":""},{"id":1715350230189,"input":"3 1\n3 2 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cjy/dev/ps/baekjoon/15903번： 카드 합체 놀이/카드 합체 놀이.cpp","group":"local","local":true}

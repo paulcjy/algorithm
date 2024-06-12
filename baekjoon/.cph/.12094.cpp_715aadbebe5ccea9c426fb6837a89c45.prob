@@ -1,0 +1,1 @@
+{"name":"Local: 12094","url":"/Users/cjy/dev/ps/baekjoon/12094.cpp","tests":[{"id":1712250584725,"input":"3\n2 2 2\n4 4 4\n8 8 8","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cjy/dev/ps/baekjoon/12094.cpp","group":"local","local":true}

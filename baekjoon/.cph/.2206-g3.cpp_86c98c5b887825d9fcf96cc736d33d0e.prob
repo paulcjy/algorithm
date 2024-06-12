@@ -1,0 +1,1 @@
+{"name":"Local: 2206-g3","url":"/Users/cjy/dev/ps/baekjoon/2206-g3.cpp","tests":[{"id":1711096915129,"input":"6 4\n0100\n1110\n1000\n0000\n0111\n0000","output":""},{"id":1711098067229,"input":"4 4\n0111\n1111\n1111\n1110","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/cjy/dev/ps/baekjoon/2206-g3.cpp","group":"local","local":true}
